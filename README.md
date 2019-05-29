@@ -18,6 +18,7 @@
      `git push origin master`
 
 ## List of challenge branches
+<<<<<<< .merge_file_MTFMcM
 <<<<<<< HEAD
 * 01_ruby_intro
 =======
@@ -27,3 +28,7 @@
 * 04_sum_numbers
 * 05_in_array
 >>>>>>> a600065b3f320365a06fe044bcddc70911b1fe59
+=======
+* 01_ruby_intro
+* 02_input_output
+>>>>>>> .merge_file_6TVMUL
